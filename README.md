@@ -1,6 +1,6 @@
 # My Dotfiles Backup
 
-My .dotfiles backup using [Gnu Stow](https://www.gnu.org/software/stow/).
+My .dotfiles' backup using [Gnu Stow](https://www.gnu.org/software/stow/).
 
 ## Requirements
 
@@ -22,7 +22,7 @@ Or any other package manager.
 
 ### Stow
 
-Having brew installed, you can install then install Stow:
+Having brew installed, install GNU Stow:
 
 ```bash
 brew install stow
